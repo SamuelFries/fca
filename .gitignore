@@ -1,0 +1,35 @@
+# Ignorar diretório de uploads (imagens, documentos, etc.)
+wp-content/uploads/
+
+# Ignorar cache, plugins e atualizações
+wp-content/cache/
+wp-content/plugins/
+wp-content/upgrade/
+
+# Ignorar arquivos de configuração e sensíveis
+wp-config.php
+.htaccess
+
+# Ignorar arquivos temporários e de backup
+*.log
+*.tmp
+*.swp
+*.zip
+
+# Ignorar node_modules (se você estiver usando Node.js no projeto)
+node_modules/
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar configurações específicas do sistema operacional
+desktop.ini
+
+# Ignorar banco de dados locais e arquivos SQL
+*.sql
+*.sqlite
+
+# Ignorar IDEs e editores específicos
+.vscode/
+.idea/
