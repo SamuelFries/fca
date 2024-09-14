@@ -120,43 +120,47 @@ Os Advogados da FRIES & CABRAL, estão sempre prontos a ouvir seus clientes, ide
                     <div style="height:46px" aria-hidden="true" class="wp-block-spacer"></div>
                     <!-- /wp:spacer -->
 
-                    <!-- wp:columns -->
-                    <div class="wp-block-columns"><!-- wp:column {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}}} -->
-                    <div class="wp-block-column" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:cover {"url":"' . esc_url( get_template_directory_uri() ) . '/assets/images/StockSnap_356BERTH29.jpg","id":7392,"dimRatio":70,"overlayColor":"primary","contentPosition":"bottom left","style":{"spacing":{"padding":{"top":"var:preset|spacing|small","right":"var:preset|spacing|x-small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|x-small"}}}} -->
-                    <div class="wp-block-cover has-custom-content-position is-position-bottom-left" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--x-small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--x-small)"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-7392" alt="" src="' . esc_url( get_template_directory_uri() ) . '/assets/images/StockSnap_356BERTH29.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"left":"0","top":"0","right":"0","bottom":"0"}}},"textColor":"white","fontSize":"medium"} -->
-                    <h3 class="wp-block-heading has-white-color has-text-color has-medium-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0">Video<br>Production</h3>
-                    <!-- /wp:heading -->
+                   <!-- wp:columns -->
+<div class="wp-block-columns">
+    <!-- wp:column {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}}} -->
+    <div class="wp-block-column" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
+        <!-- wp:cover {"url":"' . esc_url( get_template_directory_uri() ) . '/assets/images/estatua.png","id":7392,"dimRatio":70,"overlayColor":"primary","contentPosition":"bottom left","style":{"spacing":{"padding":{"top":"var:preset|spacing|small","right":"var:preset|spacing|x-small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|x-small"}}}} -->
+        <div class="wp-block-cover has-custom-content-position is-position-bottom-left" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--x-small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--x-small)">
+            <span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-70 has-background-dim"></span>
+            <img class="wp-block-cover__image-background wp-image-7392" alt="" src="' . esc_url( get_template_directory_uri() ) . '/assets/images/estatua.png" data-object-fit="cover"/>
+            <div class="wp-block-cover__inner-container">
+                <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"left":"0","top":"0","right":"0","bottom":"0"}}},"textColor":"white","fontSize":"medium"} -->
+                <h3 class="wp-block-heading has-white-color has-text-color has-medium-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0">Seus<br>Direitos</h3>
+                <!-- /wp:heading -->
+                <!-- wp:paragraph {"style":{"spacing":{"margin":{"left":"0","top":"0","right":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
+                <p class="has-secondary-color has-text-color has-link-color" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><a href="#">Saiba mais →</a></p>
+                <!-- /wp:paragraph -->
+            </div>
+        </div>
+        <!-- /wp:cover -->
+    </div>
+    <!-- /wp:column -->
 
-                    <!-- wp:paragraph {"style":{"spacing":{"margin":{"left":"0","top":"0","right":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-                    <p class="has-secondary-color has-text-color has-link-color" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><a href="#">Explore more →</a></p>
-                    <!-- /wp:paragraph --></div></div>
-                    <!-- /wp:cover --></div>
-                    <!-- /wp:column -->
-
-                    <!-- wp:column {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}}} -->
-                    <div class="wp-block-column" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:cover {"url":"' . esc_url( get_template_directory_uri() ) . '/assets/images/StockSnap_KV0WLH355C.jpg","id":7394,"dimRatio":70,"overlayColor":"primary","contentPosition":"bottom left","style":{"spacing":{"padding":{"top":"var:preset|spacing|small","right":"var:preset|spacing|x-small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|x-small"}}}} -->
-                    <div class="wp-block-cover has-custom-content-position is-position-bottom-left" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--x-small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--x-small)"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-7394" alt="" src="' . esc_url( get_template_directory_uri() ) . '/assets/images/StockSnap_KV0WLH355C.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"left":"0","top":"0","right":"0","bottom":"0"}}},"textColor":"white","fontSize":"medium"} -->
-                    <h3 class="wp-block-heading has-white-color has-text-color has-medium-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0">Professional<br>Editing</h3>
-                    <!-- /wp:heading -->
-
-                    <!-- wp:paragraph {"style":{"spacing":{"margin":{"left":"0","top":"0","right":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-                    <p class="has-secondary-color has-text-color has-link-color" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><a href="#">Explore more →</a></p>
-                    <!-- /wp:paragraph --></div></div>
-                    <!-- /wp:cover --></div>
-                    <!-- /wp:column -->
-
-                    <!-- wp:column {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}}} -->
-                    <div class="wp-block-column" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:cover {"url":"' . esc_url( get_template_directory_uri() ) . '/assets/images/StockSnap_P9QYJ8AAL8.jpg","id":7497,"dimRatio":70,"overlayColor":"primary","contentPosition":"bottom left","style":{"spacing":{"padding":{"top":"var:preset|spacing|small","right":"var:preset|spacing|x-small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|x-small"}}}} -->
-                    <div class="wp-block-cover has-custom-content-position is-position-bottom-left" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--x-small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--x-small)"><span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-7497" alt="" src="' . esc_url( get_template_directory_uri() ) . '/assets/images/StockSnap_P9QYJ8AAL8.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"left":"0","top":"0","right":"0","bottom":"0"}}},"textColor":"white","fontSize":"medium"} -->
-                    <h3 class="wp-block-heading has-white-color has-text-color has-medium-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0">Aerial<br>Video</h3>
-                    <!-- /wp:heading -->
-
-                    <!-- wp:paragraph {"style":{"spacing":{"margin":{"left":"0","top":"0","right":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
-                    <p class="has-secondary-color has-text-color has-link-color" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><a href="#">Explore more →</a></p>
-                    <!-- /wp:paragraph --></div></div>
-                    <!-- /wp:cover --></div>
-                    <!-- /wp:column --></div>
-                    <!-- /wp:columns -->
+    <!-- wp:column {"style":{"spacing":{"padding":{"top":"0","right":"0","bottom":"0","left":"0"}}}} -->
+    <div class="wp-block-column" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
+        <!-- wp:cover {"url":"' . esc_url( get_template_directory_uri() ) . '/assets/images/livros.png","id":7394,"dimRatio":70,"overlayColor":"primary","contentPosition":"bottom left","style":{"spacing":{"padding":{"top":"var:preset|spacing|small","right":"var:preset|spacing|x-small","bottom":"var:preset|spacing|small","left":"var:preset|spacing|x-small"}}}} -->
+        <div class="wp-block-cover has-custom-content-position is-position-bottom-left" style="padding-top:var(--wp--preset--spacing--small);padding-right:var(--wp--preset--spacing--x-small);padding-bottom:var(--wp--preset--spacing--small);padding-left:var(--wp--preset--spacing--x-small)">
+            <span aria-hidden="true" class="wp-block-cover__background has-primary-background-color has-background-dim-70 has-background-dim"></span>
+            <img class="wp-block-cover__image-background wp-image-7394" alt="" src="' . esc_url( get_template_directory_uri() ) . '/assets/images/livros.png" data-object-fit="cover"/>
+            <div class="wp-block-cover__inner-container">
+                <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"left":"0","top":"0","right":"0","bottom":"0"}}},"textColor":"white","fontSize":"medium"} -->
+                <h3 class="wp-block-heading has-white-color has-text-color has-medium-font-size" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0">Leis<br>Trabalhistas</h3>
+                <!-- /wp:heading -->
+                <!-- wp:paragraph {"style":{"spacing":{"margin":{"left":"0","top":"0","right":"0","bottom":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary"} -->
+                <p class="has-secondary-color has-text-color has-link-color" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><a href="#">Saiba mais →</a></p>
+                <!-- /wp:paragraph -->
+            </div>
+        </div>
+        <!-- /wp:cover -->
+    </div>
+    <!-- /wp:column -->
+</div>
+<!-- /wp:columns -->
 
                     <!-- wp:spacer {"height":"103px"} -->
                     <div style="height:103px" aria-hidden="true" class="wp-block-spacer"></div>
@@ -424,23 +428,32 @@ Os Advogados da FRIES & CABRAL, estão sempre prontos a ouvir seus clientes, ide
                     <!-- /wp:group --></div>
                     <!-- /wp:group -->
 
-                    <!-- wp:cover {"url":"' . esc_url( get_template_directory_uri() ) . '/assets/images/StockSnap_89BQZ89TLH.jpg","id":24,"hasParallax":true,"dimRatio":40,"overlayColor":"black","minHeightUnit":"px","contentPosition":"center center","align":"full","style":{"border":{"radius":"0px"}},"className":"is-position-center-center"} -->
-                    <div class="wp-block-cover alignfull has-parallax is-position-center-center" style="border-radius:0px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-40 has-background-dim"></span><div role="img" class="wp-block-cover__image-background wp-image-24 has-parallax" style="background-position:50% 50%;background-image:url(' . esc_url( get_template_directory_uri() ) . '/assets/images/StockSnap_89BQZ89TLH.jpg)"></div><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"constrained"}} -->
-                    <div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":3,"style":{"color":{"text":"#fffffa"},"typography":{"textTransform":"uppercase"}},"fontSize":"medium"} -->
-                    <h3 class="wp-block-heading has-text-align-center has-text-color has-medium-font-size" style="color:#fffffa;text-transform:uppercase">Unleash your creativity with Inspiro</h3>
-                    <!-- /wp:heading -->
+                    <!-- wp:cover {"url":"' . esc_url( get_template_directory_uri() ) . '/assets/images/logo.jpg","id":24,"hasParallax":true,"dimRatio":40,"overlayColor":"black","minHeightUnit":"px","contentPosition":"center center","align":"full","style":{"border":{"radius":"0px"}},"className":"is-position-center-center"} -->
+<div class="wp-block-cover alignfull has-parallax is-position-center-center" style="border-radius:0px">
+    <span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-40 has-background-dim"></span>
+    <div role="img" class="wp-block-cover__image-background wp-image-24 has-parallax" style="background-position:50% 50%;background-image:url(' . esc_url( get_template_directory_uri() ) . '/assets/images/logo.jpg)"></div>
+    <div class="wp-block-cover__inner-container">
+        <!-- wp:group {"layout":{"type":"constrained"}} -->
+        <div class="wp-block-group">
+            <!-- wp:heading {"textAlign":"center","level":3,"style":{"color":{"text":"#fffffa"},"typography":{"textTransform":"uppercase"}},"fontSize":"medium"} -->
+            <h3 class="wp-block-heading has-text-align-center has-text-color has-medium-font-size" style="color:#fffffa;text-transform:uppercase">Dê o próximo passo</h3>
+            <!-- /wp:heading -->
 
-                    <!-- wp:paragraph {"align":"center","textColor":"white"} -->
-                    <p class="has-text-align-center has-white-color has-text-color">This is some dummy copy. You’re not really supposed to read this dummy copy, it is just a placeholder for people who need some type to visualize what the actual copy might look like if it were real content.</p>
-                    <!-- /wp:paragraph -->
+            <!-- wp:paragraph {"align":"center","textColor":"white"} -->
+            <p class="has-text-align-center has-white-color has-text-color">Faça parte da história Fries & Cabral, invista no seu futuro</p>
+            <!-- /wp:paragraph -->
 
-                    <!-- wp:spacer {"height":"31px"} -->
-                    <div style="height:31px" aria-hidden="true" class="wp-block-spacer"></div>
-                    <!-- /wp:spacer -->
-
+            <!-- wp:spacer {"height":"31px"} -->
+            <div style="height:31px" aria-hidden="true" class="wp-block-spacer"></div>
+            <!-- /wp:spacer -->
+        </div>
+        <!-- /wp:group -->
+    </div>
+</div>
+<!-- /wp:cover -->
                     <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
                     <div class="wp-block-buttons"><!-- wp:button {"textColor":"white","style":{"border":{"radius":"0px"}},"className":"is-style-outline"} -->
-                    <div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-white-color has-text-color wp-element-button" href="#" style="border-radius:0px">CONTACT US</a></div>
+                    <div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-white-color has-text-color wp-element-button" href="#" style="border-radius:0px">CONTA-TE NOS</a></div>
                     <!-- /wp:button --></div>
                     <!-- /wp:buttons --></div>
                     <!-- /wp:group --></div></div>
