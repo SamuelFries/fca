@@ -382,9 +382,9 @@ Os Advogados da FRIES & CABRAL, estão sempre prontos a ouvir seus clientes, ide
                     <!-- /wp:paragraph -->
 
                     <!-- wp:social-links {"iconColor":"primary","iconColorValue":"currentColor","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|x-small","left":"var:preset|spacing|x-small"}}},"className":"is-style-logos-only","layout":{"type":"flex","flexWrap":"wrap"}} -->
-                    <ul class="wp-block-social-links has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"instagram"} /-->
+                    <ul class="wp-block-social-links has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"https://www.instagram.com/pedrofries/","service":"instagram"} /-->
 
-                    <!-- wp:social-link {"url":"#","service":"linkedin"} /--></ul>
+                    <!-- wp:social-link {"url":"https://www.linkedin.com/in/pedro-fernando-fries-56a7711b7/","service":"linkedin"} /--></ul>
                     <!-- /wp:social-links --></div>
                     <!-- /wp:column -->
 
@@ -404,11 +404,10 @@ Os Advogados da FRIES & CABRAL, estão sempre prontos a ouvir seus clientes, ide
                     <!-- wp:paragraph -->
                     <p>PRÉRESUMO - CABRAL***</p>
                     <!-- /wp:paragraph -->
+                    <!-- wp:social-links {"iconColor":"primary","iconColorValue":"currentColor","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|x-small","left":"var:preset|spacing|x-small"}}},"className":"is-style-logos-only","layout":{"type":"flex","flexWrap":"wrap"}} -->
+                    <ul class="wp-block-social-links has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"https://www.instagram.com/advacabral/","service":"instagram"} /-->
 
-                    <!-- wp:social-links {"iconColor":"primary","iconColorValue":"currentColor","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|x-small","left":"var:preset|spacing|x-small"}}},"className":"is-style-logos-only"} -->
-                    <ul class="wp-block-social-links has-icon-color is-style-logos-only"><!-- wp:social-link {"url":"#","service":"linkedin"} /-->
-
-                    <!-- wp:social-link {"url":"#","service":"x"} /--></ul>
+                    <!-- wp:social-link {"url":"#","service":"linkedin"} /--></ul>
                     <!-- /wp:social-links --></div>
                     <!-- /wp:column -->
 
